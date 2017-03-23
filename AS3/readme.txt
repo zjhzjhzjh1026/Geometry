@@ -1,1 +1,0 @@
-Just import the 'hw3_points2D.txt' and 'hw3_points3D.txt' to this folder, and run 'Script1.m'.
